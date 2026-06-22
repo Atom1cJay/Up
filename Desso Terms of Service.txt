@@ -1,0 +1,259 @@
+DESSO TERMS, PRIVACY POLICY, AND COMMUNITY GUIDELINES
+Last Updated: June 15, 2026
+
+Welcome to Desso. Before using the app, please read and agree to these Terms, Privacy Policy, and Community Guidelines.
+
+By creating an account, logging in, or using Desso, you agree to follow these rules. If you do not agree, do not use the app.
+
+For questions, safety concerns, privacy requests, or moderation issues, contact us at:
+support@desso.app
+
+--------------------------------------------------
+1. WHAT DESSO IS
+--------------------------------------------------
+
+Desso is a social app that helps people discover and connect with others nearby.
+
+You are responsible for how you use the app, what you post, and how you interact with other users. You agree to use Desso safely, respectfully, and legally.
+
+--------------------------------------------------
+2. ELIGIBILITY
+--------------------------------------------------
+
+• You must be at least 18 years old to use Desso.
+• By using Desso, you confirm that you are at least 18 and that the information you provide is accurate.
+• We may suspend or remove accounts that violate these Terms or appear to be unsafe, fake, abusive, or ineligible.
+
+--------------------------------------------------
+3. NO TOLERANCE FOR OBJECTIONABLE CONTENT OR ABUSIVE USERS
+--------------------------------------------------
+
+Desso has no tolerance for objectionable content or abusive users.
+
+You may not post, upload, share, send, or promote content that is:
+
+• Harassing, bullying, threatening, or abusive
+• Hateful, discriminatory, or demeaning
+• Sexually explicit, exploitative, or inappropriate
+• Violent, graphic, or encouraging harm
+• Illegal or encouraging illegal activity
+• Spam, scams, impersonation, or deceptive behavior
+• Invasive of someone's privacy
+• Otherwise unsafe, offensive, or objectionable
+
+You may not use Desso to abuse, harass, threaten, stalk, exploit, or intimidate another person.
+
+If we determine that content or behavior violates these rules, we may remove the content, limit access to features, suspend the account, ban the user, or take other action.
+
+--------------------------------------------------
+4. FILTERING OBJECTIONABLE CONTENT
+--------------------------------------------------
+
+Desso may use automated, manual, or system-level filtering to help prevent objectionable content from being posted or shown in the app.
+
+This may include filtering text, images, profiles, messages, reports, or other user-generated content.
+
+Filtering is not perfect, and some objectionable content may still appear. Users are encouraged to report any content or behavior that violates these rules.
+
+--------------------------------------------------
+5. REPORTING OBJECTIONABLE CONTENT
+--------------------------------------------------
+
+Users can report objectionable content, profiles, or behavior from inside the app.
+
+When a report is submitted, Desso may collect information needed to review the issue, including the reported content, the reported user, the reporting user, timestamps, and relevant context.
+
+Desso reviews reports of objectionable content within 24 hours.
+
+If reported content violates these rules, we may remove the content and suspend, ban, or remove the user who provided the offending content.
+
+--------------------------------------------------
+6. BLOCKING ABUSIVE USERS
+--------------------------------------------------
+
+Users can block abusive or unwanted users from inside the app.
+
+When you block a user:
+
+• That user's content will be removed from your feed immediately.
+• You will no longer see that user in relevant parts of the app.
+• The blocked user will be restricted from interacting with you where applicable.
+• Desso will be notified so we can review the situation for safety and moderation purposes.
+
+Blocking is intended to give users immediate control over their experience. Desso may also take additional action against blocked users if their content or behavior violates these Terms.
+
+--------------------------------------------------
+7. USER CONTENT
+--------------------------------------------------
+
+You are responsible for the content you provide through Desso, including profile information, photos, messages, reports, and other content.
+
+You agree that you have the right to share anything you upload or submit.
+
+You grant Desso permission to store, display, process, and use your content as needed to operate, improve, moderate, and provide the app.
+
+You understand that other users may see the content you choose to make visible in the app.
+
+Do not share private, sensitive, illegal, or harmful content.
+
+--------------------------------------------------
+8. ACCOUNT SAFETY
+--------------------------------------------------
+
+You are responsible for keeping your account secure.
+
+• Do not share your login credentials.
+• Do not use another person's account.
+
+We may suspend or remove accounts that appear fraudulent, fake, automated, abusive, or unsafe.
+
+--------------------------------------------------
+9. PRIVACY POLICY
+--------------------------------------------------
+
+This section explains what information Desso collects, how we use it, and how users can contact us about privacy.
+
+INFORMATION WE COLLECT
+
+Depending on how you use Desso, we may collect:
+
+• Account information, such as your phone number, email address, login credentials, and user ID.
+• Profile information, such as your name, age, photos, bio, preferences, and other information you choose to provide.
+• Location information, such as your approximate or precise location if you grant location permission.
+• User content, such as posts, profile content, messages, likes, reports, blocks, and other interactions.
+• Safety and moderation information, such as reports, blocked users, moderation decisions, and content review records.
+• Device and technical information, such as device type, app version, operating system, IP address, logs, crash data, and diagnostic information.
+• Usage information, such as app interactions, screens viewed, features used, timestamps, and general activity.
+
+HOW WE USE INFORMATION
+
+We use information to:
+
+• Create and manage user accounts.
+• Provide the app's core features.
+• Show relevant users, profiles, content, or nearby activity.
+• Enable user interactions.
+• Improve app performance and reliability.
+• Prevent spam, abuse, fraud, and unsafe behavior.
+• Filter and moderate objectionable content.
+• Review reports and blocks.
+• Enforce these Terms and Community Guidelines.
+• Respond to support, safety, legal, or privacy requests.
+• Maintain security and comply with applicable law.
+
+LOCATION INFORMATION
+
+Desso may use location information to help users discover and connect with people nearby.
+
+You can control location permissions through your device settings. Some features may not work properly if location access is disabled.
+
+Do not use Desso in a way that exposes another person's private location without their consent.
+
+SHARING INFORMATION
+
+We do not sell your personal information.
+
+We may share information in limited situations, including:
+
+• With service providers that help us operate the app, such as hosting, authentication, messaging, analytics, storage, crash reporting, or moderation tools.
+• When needed to investigate abuse, safety issues, reports, or violations of these Terms.
+• If required by law, legal process, or a valid request from authorities.
+• To protect the rights, safety, and security of Desso, our users, or others.
+• In connection with a business transfer, such as a merger, acquisition, financing, or sale of assets.
+
+Service providers may process information only as needed to provide services to Desso.
+
+DATA RETENTION
+
+We keep information for as long as needed to provide the app, maintain safety, resolve disputes, enforce our rules, comply with law, and operate our business.
+
+We may retain moderation, report, block, and safety records even after content is removed or an account is deleted where needed to protect users and prevent abuse.
+
+ACCOUNT DELETION AND PRIVACY REQUESTS
+
+You may request account deletion or send a privacy request by contacting:
+
+support@desso.app
+
+After account deletion, some information may be deleted, de-identified, or retained where necessary for safety, security, legal compliance, fraud prevention, dispute resolution, or enforcement of these Terms.
+
+CHILDREN'S PRIVACY
+
+Desso is not intended for users under 18.
+
+We do not knowingly allow users under 18 to create accounts. If we learn that a user is under 18, we may remove the account.
+
+SECURITY
+
+We use reasonable technical and organizational measures to protect user information.
+
+No system is perfectly secure, and we cannot guarantee that information will always remain secure.
+
+--------------------------------------------------
+10. COMMUNITY GUIDELINES
+--------------------------------------------------
+
+BE RESPECTFUL
+
+Treat other users with respect. Do not harass, insult, threaten, shame, stalk, or intimidate others.
+
+BE AUTHENTIC
+
+Do not impersonate another person, create fake accounts, misrepresent yourself, or use misleading profile information.
+
+KEEP CONTENT APPROPRIATE
+
+Do not post sexual, violent, hateful, exploitative, illegal, or otherwise objectionable content.
+
+RESPECT PRIVACY
+
+Do not post or share another person's private information without permission. This includes addresses, phone numbers, private photos, private messages, or precise location information.
+
+DO NOT SPAM OR SCAM
+
+Do not use Desso for spam, scams, phishing, advertising, bots, automation, or deceptive activity.
+
+USE REPORTING AND BLOCKING TOOLS
+
+If you see objectionable content or abusive behavior, report it. If another user makes you uncomfortable, block them.
+
+Desso reviews reports and may remove content or users that violate these guidelines.
+
+--------------------------------------------------
+11. ENFORCEMENT
+--------------------------------------------------
+
+Desso may enforce these Terms at our discretion.
+
+Enforcement actions may include:
+
+• Removing content
+• Hiding content from feeds
+• Warning users
+• Limiting features
+• Suspending accounts
+• Banning users
+• Removing users from the service
+• Keeping safety records to prevent repeat abuse
+
+We may act without prior notice when needed to protect users, the app, or the community.
+
+--------------------------------------------------
+12. CHANGES TO THESE TERMS
+--------------------------------------------------
+
+We may update these Terms, Privacy Policy, and Community Guidelines from time to time.
+
+If we make changes, we may notify users in the app or by other reasonable means.
+
+Your continued use of Desso after changes means you accept the updated terms.
+
+--------------------------------------------------
+13. CONTACT
+--------------------------------------------------
+
+For support, privacy requests, safety concerns, moderation issues, or questions about these Terms, contact:
+
+support@desso.app
+
+By tapping "I Agree" or creating an account, you confirm that you have read and agree to these Terms, Privacy Policy, and Community Guidelines.

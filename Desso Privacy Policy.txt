@@ -1,0 +1,152 @@
+﻿DESSO PRIVACY POLICY
+Effective Date: 5/31/26
+1. Introduction
+Welcome to Desso ("Desso," "we," "our," or "us").
+Desso is a social networking platform designed to help individuals discover and connect with other people nearby for friendship, networking, community engagement, and social interaction.
+This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application, website, and related services (collectively, the "Services").
+By using the Services, you agree to the practices described in this Privacy Policy.
+________________
+
+
+2. Information We Collect
+Information You Provide
+We may collect information you voluntarily provide, including:
+* Name
+* Username
+* Profile photos
+* Email address
+* Phone number
+* Date of birth
+* Biographical information
+* Interests and preferences
+* Messages and communications sent through the platform
+* Identity verification information (if applicable)
+________________
+
+
+Location Information
+Desso uses location information to enable core functionality.
+We may collect:
+* Precise GPS location
+* Approximate location
+* Location history while using the application
+Location information is used to:
+* Display nearby users
+* Facilitate local connections
+* Improve matching and discovery features
+* Enhance platform safety
+Users may disable location permissions through device settings, though certain features may become unavailable.
+________________
+
+
+Automatically Collected Information
+We may automatically collect:
+* Device type
+* Operating system
+* IP address
+* App usage information
+* Session information
+* Crash reports
+* Analytics information
+________________
+
+
+3. How We Use Information
+We use information to:
+* Provide and operate the Services
+* Create and manage user accounts
+* Facilitate user connections
+* Improve the platform
+* Verify user identity
+* Detect fraud and abuse
+* Enforce our Terms of Service
+* Communicate with users
+* Comply with legal obligations
+________________
+
+
+4. Sharing of Information
+We may share information:
+With Other Users
+Profile information you choose to display may be visible to other users.
+This may include:
+* First name
+* Profile photos
+* Bio
+* Interests
+* General location information
+________________
+
+
+Service Providers
+We may share information with trusted third-party providers that assist with:
+* Hosting
+* Analytics
+* Identity verification
+* Customer support
+* Security monitoring
+* Payment processing
+________________
+
+
+Legal Requirements
+We may disclose information if required by law or if necessary to:
+* Protect users
+* Investigate misconduct
+* Respond to legal requests
+* Enforce our policies
+________________
+
+
+5. User Safety
+Desso is designed to facilitate real-world interactions.
+We encourage users to:
+* Meet in public places
+* Inform friends or family of meeting plans
+* Exercise good judgment
+Desso cannot guarantee the conduct, identity, intentions, or actions of any user.
+________________
+
+
+6. Data Retention
+We retain information for as long as necessary to:
+* Provide services
+* Maintain security
+* Comply with legal obligations
+* Resolve disputes
+Some information may remain in backups or legal records after account deletion.
+________________
+
+
+7. Account Deletion
+Users may request deletion of their account through the application or by contacting us.
+Upon deletion:
+* Public profile information will be removed
+* Access to the account will terminate
+* Certain information may be retained as required by law or for safety purposes
+________________
+
+
+8. Children's Privacy
+Desso is not intended for individuals under 18 years of age.
+We do not knowingly collect information from children.
+If we become aware that information from a minor has been collected, we will remove it promptly.
+________________
+
+
+9. Security
+We implement reasonable administrative, technical, and physical safeguards to protect user information.
+However, no system can be guaranteed to be completely secure.
+________________
+
+
+10. Changes to This Policy
+We may update this Privacy Policy periodically.
+Continued use of the Services after updates constitutes acceptance of the revised policy.
+________________
+
+
+11. Contact Information
+Questions regarding this Privacy Policy may be directed to:
+Desso Team
+ Email: doucette1912@gmail.com
