@@ -1,152 +1,263 @@
-﻿DESSO PRIVACY POLICY
-Effective Date: 5/31/26
-1. Introduction
+DESSO PRIVACY POLICY
+
+Effective Date: June 22, 2026
+
+1. INTRODUCTION
+
 Welcome to Desso ("Desso," "we," "our," or "us").
+
+DESSO INC operates the Desso application and related services (collectively, the "Services").
+
 Desso is a social networking platform designed to help individuals discover and connect with other people nearby for friendship, networking, community engagement, and social interaction.
+
 This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application, website, and related services (collectively, the "Services").
-By using the Services, you agree to the practices described in this Privacy Policy.
-________________
 
+By creating an account, logging in, or using the Services, you agree to the practices described in this Privacy Policy.
 
-2. Information We Collect
+For questions, safety concerns, privacy requests, or moderation issues, contact:
+
+support@desso.app
+
+--------------------------------------------------
+2. INFORMATION WE COLLECT
+--------------------------------------------------
+
 Information You Provide
-We may collect information you voluntarily provide, including:
-* Name
-* Username
-* Profile photos
-* Email address
-* Phone number
-* Date of birth
-* Biographical information
-* Interests and preferences
-* Messages and communications sent through the platform
-* Identity verification information (if applicable)
-________________
 
+We may collect information that you voluntarily provide, including:
 
-Location Information
-Desso uses location information to enable core functionality.
+• Name
+• Username or nickname
+• Profile photos
+• Email address
+• Phone number
+• Date of birth
+• Biographical information
+• Interests and preferences
+• Messages and communications sent through the platform
+• Reports, blocks, and safety-related submissions
+• Identity verification information, if applicable
+
+--------------------------------------------------
+LOCATION INFORMATION
+--------------------------------------------------
+
+Desso uses location information to provide core features of the Services.
+
 We may collect:
-* Precise GPS location
-* Approximate location
-* Location history while using the application
+
+• Precise GPS location
+• Approximate location
+• Location information while you are actively using the application
+
 Location information is used to:
-* Display nearby users
-* Facilitate local connections
-* Improve matching and discovery features
-* Enhance platform safety
-Users may disable location permissions through device settings, though certain features may become unavailable.
-________________
 
+• Display aggregated heat maps showing general areas of user activity
+• Facilitate local connections and discovery
+• Calculate suggested meeting areas between matched users
+• Improve matching and safety features
+• Enable certain location-based functionality within the Services
 
-Automatically Collected Information
+Desso does not display a user's precise GPS location to other users.
+
+Heat maps displayed within the application are aggregated and do not reveal any individual user's precise location.
+
+Desso collects location information only when:
+
+• You grant location permission; and
+• You are actively using the application and have enabled location-based features, such as Open to Meet.
+
+If you decline location permissions or disable location-based features, certain functionality of the Services may not be available.
+
+Users may disable location permissions at any time through their device settings.
+
+--------------------------------------------------
+AUTOMATICALLY COLLECTED INFORMATION
+--------------------------------------------------
+
 We may automatically collect:
-* Device type
-* Operating system
-* IP address
-* App usage information
-* Session information
-* Crash reports
-* Analytics information
-________________
 
+• Device type
+• Operating system
+• IP address
+• App usage information
+• Session information
+• Crash reports
+• Analytics information
+• Diagnostic information
+• General device and performance information
 
-3. How We Use Information
+--------------------------------------------------
+3. HOW WE USE INFORMATION
+--------------------------------------------------
+
 We use information to:
-* Provide and operate the Services
-* Create and manage user accounts
-* Facilitate user connections
-* Improve the platform
-* Verify user identity
-* Detect fraud and abuse
-* Enforce our Terms of Service
-* Communicate with users
-* Comply with legal obligations
-________________
 
+• Provide and operate the Services
+• Create and manage user accounts
+• Facilitate user connections
+• Display relevant users and nearby activity
+• Improve the platform and user experience
+• Verify user identity
+• Detect fraud and abuse
+• Enforce our Terms of Service and Community Guidelines
+• Review reports and blocked users
+• Communicate with users
+• Maintain security
+• Comply with legal obligations
 
-4. Sharing of Information
-We may share information:
-With Other Users
-Profile information you choose to display may be visible to other users.
-This may include:
-* First name
-* Profile photos
-* Bio
-* Interests
-* General location information
-________________
+--------------------------------------------------
+4. SHARING OF INFORMATION
+--------------------------------------------------
 
+WITH OTHER USERS
 
-Service Providers
-We may share information with trusted third-party providers that assist with:
-* Hosting
-* Analytics
-* Identity verification
-* Customer support
-* Security monitoring
-* Payment processing
-________________
+Profile information you choose to display may be visible to other users, including:
 
+• First name
+• Profile photos
+• Bio
+• Interests
+• General location information
 
-Legal Requirements
+Desso does not share your precise GPS coordinates with other users.
+
+--------------------------------------------------
+SERVICE PROVIDERS
+--------------------------------------------------
+
+We may share information with trusted third-party service providers that assist with:
+
+• Hosting
+• Authentication
+• Analytics
+• Customer support
+• Security monitoring
+• Cloud storage
+• Messaging and notifications
+• Identity verification
+
+Service providers may process information only as necessary to provide services to Desso.
+
+--------------------------------------------------
+LEGAL REQUIREMENTS
+--------------------------------------------------
+
 We may disclose information if required by law or if necessary to:
-* Protect users
-* Investigate misconduct
-* Respond to legal requests
-* Enforce our policies
-________________
 
+• Protect users
+• Investigate misconduct
+• Respond to legal requests
+• Enforce our policies
+• Protect the rights, safety, and security of Desso, our users, or others
 
-5. User Safety
+--------------------------------------------------
+BUSINESS TRANSFERS
+--------------------------------------------------
+
+Information may be transferred as part of a merger, acquisition, financing, reorganization, or sale of assets.
+
+--------------------------------------------------
+5. CONTENT MODERATION AND SAFETY
+--------------------------------------------------
+
+To help keep Desso safe, we may collect and process information related to moderation and safety, including:
+
+• Reports submitted by users
+• Blocked users
+• Messages or content reported for review
+• Moderation actions and enforcement decisions
+• Information reasonably necessary to investigate abuse, fraud, harassment, or violations of our Terms and Community Guidelines
+
+We may retain moderation and safety records even after content or accounts are removed where necessary to protect users and prevent repeat abuse.
+
+--------------------------------------------------
+6. USER SAFETY
+--------------------------------------------------
+
 Desso is designed to facilitate real-world interactions.
+
 We encourage users to:
-* Meet in public places
-* Inform friends or family of meeting plans
-* Exercise good judgment
+
+• Meet in public places
+• Inform friends or family of meeting plans
+• Exercise good judgment
+
 Desso cannot guarantee the conduct, identity, intentions, or actions of any user.
-________________
 
+--------------------------------------------------
+7. DATA RETENTION
+--------------------------------------------------
 
-6. Data Retention
 We retain information for as long as necessary to:
-* Provide services
-* Maintain security
-* Comply with legal obligations
-* Resolve disputes
-Some information may remain in backups or legal records after account deletion.
-________________
 
+• Provide the Services
+• Maintain safety and security
+• Prevent fraud and abuse
+• Comply with legal obligations
+• Resolve disputes
+• Enforce our Terms and Community Guidelines
+• Operate and improve our business
 
-7. Account Deletion
-Users may request deletion of their account through the application or by contacting us.
+Certain information, including moderation and safety records, may be retained after account deletion where necessary to protect users, investigate abuse, or comply with legal obligations.
+
+--------------------------------------------------
+8. ACCOUNT DELETION
+--------------------------------------------------
+
+Users may request deletion of their account through the application or by contacting:
+
+support@desso.app
+
 Upon deletion:
-* Public profile information will be removed
-* Access to the account will terminate
-* Certain information may be retained as required by law or for safety purposes
-________________
 
+• Public profile information will be removed.
+• Access to the account will terminate.
+• Certain information may be deleted, de-identified, or retained as required by law, for fraud prevention, dispute resolution, safety purposes, or enforcement of our Terms and Community Guidelines.
 
-8. Children's Privacy
+--------------------------------------------------
+9. CHILDREN'S PRIVACY
+--------------------------------------------------
+
 Desso is not intended for individuals under 18 years of age.
-We do not knowingly collect information from children.
-If we become aware that information from a minor has been collected, we will remove it promptly.
-________________
 
+We do not knowingly collect information from children under 18. If we become aware that information from a minor has been collected, we will remove it promptly.
 
-9. Security
+--------------------------------------------------
+10. SECURITY
+--------------------------------------------------
+
 We implement reasonable administrative, technical, and physical safeguards to protect user information.
-However, no system can be guaranteed to be completely secure.
-________________
 
+However, no method of transmission over the Internet or method of electronic storage is completely secure, and we cannot guarantee absolute security.
 
-10. Changes to This Policy
+--------------------------------------------------
+11. CHANGES TO THIS POLICY
+--------------------------------------------------
+
 We may update this Privacy Policy periodically.
-Continued use of the Services after updates constitutes acceptance of the revised policy.
-________________
 
+If we make material changes, we may notify users within the application or by other reasonable means.
 
-11. Contact Information
+Continued use of the Services after updates constitutes acceptance of the revised Privacy Policy.
+
+--------------------------------------------------
+12. OBJECTIONABLE CONTENT AND ABUSIVE BEHAVIOR
+--------------------------------------------------
+
+Desso maintains a zero-tolerance policy for objectionable content and abusive behavior.
+
+Users may report objectionable content or abusive conduct through the application.
+
+Reports are generally reviewed within 24 hours.
+
+We may remove content, restrict features, suspend accounts, permanently ban users, or take other action when users violate our Terms, Community Guidelines, or applicable law.
+
+--------------------------------------------------
+13. CONTACT INFORMATION
+--------------------------------------------------
+
 Questions regarding this Privacy Policy may be directed to:
+
 Desso Team
- Email: doucette1912@gmail.com
+support@desso.app
