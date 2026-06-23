@@ -1,9 +1,8 @@
 DESSO TERMS, PRIVACY POLICY, AND COMMUNITY GUIDELINES
-Last Updated: June 15, 2026
+Last Updated: June 22, 2026
 
 Welcome to Desso. Before using the app, please read and agree to these Terms, Privacy Policy, and Community Guidelines.
-
-By creating an account, logging in, or using Desso, you agree to follow these rules. If you do not agree, do not use the app.
+These Terms constitute a legally binding agreement made between you and Desso, Inc. ("Desso", "we", "us", or "our"). By creating an account, logging in, or using Desso, you agree to follow these rules. If you do not agree, do not use the app.
 
 For questions, safety concerns, privacy requests, or moderation issues, contact us at:
 support@desso.app
@@ -145,8 +144,10 @@ LOCATION INFORMATION
 
 Desso may use location information to help users discover and connect with people nearby.
 
-You can control location permissions through your device settings. Some features may not work properly if location access is disabled.
-
+You can control location permissions through your device settings. If you decline permission, certain features that rely on location information will not be available to you. 
+Desso collects your location only when you are actively using the app and you have enabled Open to Meet. If you are not actively using the app or you are not Open to Meet, Desso does not collect your location. 
+Desso uses location data to generate a heat map showing general areas of user activity. The heat map is aggregated and does not display any individual user's precise location. 
+When two users have matched and both are Open to Meet while actively using the app, Desso may use their location data to calculate and show a midpoint or suggested meeting area to help them connect. 
 Do not use Desso in a way that exposes another person's private location without their consent.
 
 SHARING INFORMATION
@@ -257,3 +258,4 @@ For support, privacy requests, safety concerns, moderation issues, or questions 
 support@desso.app
 
 By tapping "I Agree" or creating an account, you confirm that you have read and agree to these Terms, Privacy Policy, and Community Guidelines.
+
