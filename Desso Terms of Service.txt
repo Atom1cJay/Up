@@ -142,10 +142,10 @@ We use information to:
 
 LOCATION INFORMATION
 
-Desso requests your location exactly once — when you manually activate Open to Meet. This single check verifies that you are in the designated Boston Common area.
+Desso requests your location when you manually activate Open to Meet, to verify that you're in the designated area. If you match with someone while Open to Meet, Desso requests your location again at that time, to provide an accurate, up-to-date location for suggesting a meetup spot.
 
 Your location is not shared with other users and is not displayed on any map. If you are not Open to Meet, Desso does not access or collect your location. You can decline location permission at any time; if you do, Open to Meet will not be available.
-When two matched users are both Open to Meet, Desso may use their stored locations internally to calculate and suggest a midpoint meeting area. Neither user's precise location is ever revealed to the other.
+When two matched users are both Open to Meet, Desso uses each user's most recent location internally to calculate and suggest a midpoint meeting area. Neither user's precise location is ever revealed to the other.
 Do not use Desso in a way that exposes another person's private location without their consent.
 
 SHARING INFORMATION
